@@ -1,15 +1,13 @@
 # market-manager-hub-main
 
-## Project info
-
-هذا المشروع هو Market Manager Hub.
+## Project info.
 
 ## How can I edit this code?
 
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone <Oumayma118/market-manager-hub-main.git>
 
 # Step 2: Navigate to the project directory
 cd market-manager-hub-main
